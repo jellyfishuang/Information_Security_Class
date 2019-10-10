@@ -1,0 +1,14 @@
+﻿  HW1.cpp
+c:\users\user\source\repos\project1\project1\hw1.cpp(53): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(77): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(84): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(165): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(315): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(343): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(386): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(396): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(417): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(419): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(427): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\project1\project1\hw1.cpp(444): warning C4018: '<': signed/unsigned 不相符
+  Project1.vcxproj -> C:\Users\user\source\repos\Project1\Debug\Project1.exe
