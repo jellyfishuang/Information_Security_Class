@@ -1,0 +1,16 @@
+﻿  Decrypt.cpp
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(53): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(76): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(83): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(119): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(125): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(233): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(383): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(411): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(454): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(464): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(485): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(487): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(495): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\decrypt\decrypt\decrypt.cpp(512): warning C4018: '<': signed/unsigned 不相符
+  Decrypt.vcxproj -> C:\Users\user\source\repos\Decrypt\Debug\Decrypt.exe
