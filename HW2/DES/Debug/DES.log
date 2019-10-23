@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\user\source\repos\des\des\source.cpp(91): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\des\des\source.cpp(93): warning C4018: '>=': signed/unsigned 不相符
+c:\users\user\source\repos\des\des\source.cpp(108): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\des\des\source.cpp(112): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\des\des\source.cpp(142): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\des\des\source.cpp(146): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\des\des\source.cpp(326): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\des\des\source.cpp(330): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\des\des\source.cpp(52): warning C4715: 'fourbits': 不是所有控制路徑都傳回值
+c:\users\user\source\repos\des\des\source.cpp(87): warning C4715: 'fourbit_inv': 不是所有控制路徑都傳回值
+  DES.vcxproj -> C:\Users\user\source\repos\DES\Debug\DES.exe
